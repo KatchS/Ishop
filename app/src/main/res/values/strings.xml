@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Ishop</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account? |</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="logout">Logout</string>
+    <string name="checkout">checkout</string>
+    <string name="Cart_tab">Cart</string>
+    <string name="Favorites_tab">Favorites</string>
+    <string name="History_tab">History</string>
+    <string name="pay">PAY</string>
+    <string name="ccv">CCV</string>
+    <string name="card_number">Card Number (not needed in this demo)</string>
+    <string name="full_name">Full Name (not needed in this demo)</string>
+    <string name="show_products">Show Products</string>
+    <string name="your_products">Your Products</string>
+    <string name="login_error">the given user data is not on our server, please check that you entered them correctly</string>
+    <string name="server_connection_error">could not connect to the server</string>
+    <string name="confirm_password_error">the password did not match to the one above</string>
+    <string name="email_validate_error">email has invalid format</string>
+    <string name="password_validate_error">password length should be at least 6 characters</string>
+    <string name="email_taken">email already taken</string>
+    <string name="barcode_not_found">the product was not found</string>
+
+    <string-array name="months">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="years">
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+    </string-array>
+</resources>

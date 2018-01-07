@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">מייל</string>
+    <string name="password">סיסמא</string>
+    <string name="login">התחברות</string>
+    <string name="don_t_have_an_account">אין משתמש?</string>
+    <string name="register">הרשמה</string>
+    <string name="confirm_password">ודא סיסמא</string>
+    <string name="logout">התנתק</string>
+    <string name="checkout">צ׳קאוט</string>
+    <string name="Cart_tab">עגלה</string>
+    <string name="Favorites_tab">מועדפים</string>
+    <string name="History_tab">היסטוריה</string>
+    <string name="pay">שלם</string>
+    <string name="ccv">CCV</string>
+    <string name="card_number">מספר כרטיס (אין צורך בדמו זה)</string>
+    <string name="full_name">שם מלא (אין צורך בדמו זה)</string>
+    <string name="show_products">ראה מוצרים</string>
+    <string name="your_products">המוצרים שלך</string>
+    <string name="login_error">פרטי המשתמש אינם במערכת, ודא כי הזנת פרטים נכונים</string>
+    <string name="server_connection_error">בעיה בהתחברות לשרת</string>
+    <string name="confirm_password_error">הסיסמא לא תואמת לסיסמא העליונה</string>
+    <string name="email_validate_error">המייל בפורמט לא תקין</string>
+    <string name="password_validate_error">הסיסמא חייבת להיות באורך של לפחות 6 תוים</string>
+    <string name="email_taken">מייל זה כבר בשימוש</string>
+    <string name="barcode_not_found">המוצר לא נמצא במערכת</string>
+</resources>
