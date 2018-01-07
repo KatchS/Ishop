@@ -6,5 +6,5 @@ The data (products) given in this app do not presume to ilustrate real pricing o
 
 for barcode reading purposes the following library was used (thanks for your work!):
 https://github.com/dm77/barcodescanner
-(this library Licensed under the Apache License, Version 2.0:
-http://www.apache.org/licenses/LICENSE-2.0)
+
+this library and some others are Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
