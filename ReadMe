@@ -1,0 +1,10 @@
+add a product by scanning it's barcode (note that the product might not be in the DB)
+
+This app is a demo for ilustration only, not for commercial usage.
+No transaction occure within this app!
+The data (products) given in this app do not presume to ilustrate real pricing or names.
+
+for barcode reading purposes the following library was used (thanks for your work!):
+https://github.com/dm77/barcodescanner
+(this library Licensed under the Apache License, Version 2.0:
+http://www.apache.org/licenses/LICENSE-2.0)
